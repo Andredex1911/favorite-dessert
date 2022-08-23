@@ -1,2 +1,2 @@
-# favorite-dessert
+# Favorite-Dessert
 Favorite Desserts
